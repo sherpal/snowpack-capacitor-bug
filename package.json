@@ -1,0 +1,17 @@
+{
+  "name": "snowpack-capacitor",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "devDependencies": {
+    "snowpack": "^3.5.5"
+  },
+  "dependencies": {
+    "@capacitor/cli": "^3.0.0",
+    "@capacitor/core": "^3.0.0",
+    "@capacitor/geolocation": "^1.0.0"
+  }
+}
