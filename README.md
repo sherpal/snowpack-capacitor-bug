@@ -2,6 +2,10 @@
 
 This is a demonstration of a bug which happens when trying to use the [Geolocation plugin](https://capacitorjs.com/docs/apis/geolocation) of Capacitor together with [Snowpack](https://www.snowpack.dev/).
 
+## Install things
+
+First issue `npm install` to install all dependencies.
+
 ## Description
 
 When issuing `npx snowpack dev` (or the alias here `npm run dev`), the following error will happen:
